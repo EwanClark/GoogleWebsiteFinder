@@ -2,4 +2,8 @@ create a .env file that looks like this:
 
 API_KEY = "YOURAPIKEYGOESHERE"
 
-run the python file and it will work.
+run this command:
+pip install -r requirements.txt
+
+run this command:
+python main.py
