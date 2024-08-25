@@ -1,1 +1,1 @@
-sigma sigma on the wall
+yeah this is done now and it has acctions
