@@ -119,3 +119,7 @@ def main():
         print()
     again()
 main()
+
+def new():
+    print("this is a new func")
+    
