@@ -1,1 +1,0 @@
-print("Skibidi") sigma ohio
