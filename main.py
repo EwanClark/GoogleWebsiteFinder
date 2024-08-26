@@ -119,8 +119,3 @@ def main():
         print()
     again()
 main()
-
-def new():
-    print("this is a new func")
-    print("add functionality to function")
-    print("Do more stuff")
